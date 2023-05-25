@@ -1,1 +1,1 @@
-0x00. Pas
+Sample technical interview tasks
